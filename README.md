@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **zameelhassan2024@cs.ajce.in**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEdWOgXLlY/7STT2qhOPzDAb88evE_ZfA/view?utm_content=DAEdWOgXLlY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAEdWOgXLlY/7STT2qhOPzDAb88evE_ZfA/view?utm_content=DAEdWOgXLlY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEdWOgXLlY/7STT2qhOPzDAb88evE_ZfA/view?utm_content=DAEdWOgXLlY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I think we are part of a metaverse of some other world**
 
