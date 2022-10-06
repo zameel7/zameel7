@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I'm+Zameel;I+am+a+Full+Stack+Developer;I+am+a+CS+Student)](https://git.io/typing-svg)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hassan_zameel?label=Follow)
+[![Linkedin: Zameel](https://img.shields.io/badge/-zameelhassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zameelhassan/)](https://www.linkedin.com/in/zameelhassan/)
 ![GitHub followers](https://img.shields.io/github/followers/zameel7?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-ffffff.svg?&style=flat&logo=Google-Chrome&link=http://zameel7.github.io/)](http://zameel7.github.io/)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zameel7.visitor-badge&left_text=My%20Page%20Visitors)
+![Waka Readme](https://github.com/zameel7/zameel7/workflows/Waka%20Readme/badge.svg)
 <hr>
 
 
