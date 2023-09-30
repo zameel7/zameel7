@@ -14,3 +14,5 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/zameelhassan)
 
 </div>
+
+[![An image of @zameel7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zameel7)](https://holopin.io/@zameel7)
